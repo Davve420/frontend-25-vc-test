@@ -44,13 +44,12 @@ footer {
 
 }
 
-.button9{
-  background-color: black;
-  color: white;
-  border-radius: 10px;
-  padding: 10px;
+.text{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: 2.5rem;
+  text-align: center;
+  color: black;
 }
-
 
 .mainh1{
   text-align: center;
