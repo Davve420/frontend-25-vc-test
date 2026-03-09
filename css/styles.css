@@ -17,6 +17,10 @@ body{
   width: 200px;
   height: 200px;
 }
+
+.imgdiv img {
+  width: 100%;
+}
 footer{
   justify-items: center;
   align-items: center;
