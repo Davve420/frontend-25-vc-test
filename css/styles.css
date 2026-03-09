@@ -10,10 +10,11 @@ body{
 }
 .imgdiv{
   justify-self: center;
-  display: flex;
-  flex-direction: row;
-  width: 200px;
-  height: 200px;
+display: flex;
+flex-direction: row;
+width: 200px;
+height: 200px;
+flex-wrap: wrap;
 }
 footer{
   justify-items: center;
